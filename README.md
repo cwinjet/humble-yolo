@@ -1,3 +1,5 @@
+details:https://blog.emmanuelcaradec.com/humble-yolo-implementation-in-keras/
+
 humble-yolo is a minimal implementation of YOLO v1 I wrote to learn about the amazing YOLO algorithm.
 
 To test it run :
